@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar", "AStar\AStar.csproj", "{8489738F-358E-4B88-8995-AC54BEFF8B35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8489738F-358E-4B88-8995-AC54BEFF8B35}.Debug|x86.ActiveCfg = Debug|x86
+		{8489738F-358E-4B88-8995-AC54BEFF8B35}.Debug|x86.Build.0 = Debug|x86
+		{8489738F-358E-4B88-8995-AC54BEFF8B35}.Release|x86.ActiveCfg = Release|x86
+		{8489738F-358E-4B88-8995-AC54BEFF8B35}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780D1B2B-148E-49FA-A9BE-79BF65BA42C7}
+	EndGlobalSection
+EndGlobal

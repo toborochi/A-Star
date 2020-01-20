@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/GitHub/A-Star/Behaviour/AStar/Content/spr_Character.png</File>
+    <File>C:/GitHub/A-Star/Behaviour/AStar/Content/spr_Background.png</File>
+    <File>C:/GitHub/A-Star/Behaviour/AStar/Content/spr_Obstacle.png</File>
+  </SourceFiles>
+</SourceFileCollection>
